@@ -547,3 +547,21 @@ div#maincontent {
     box-shadow: 10px 10px 5px -8px rgba(0,0,0,0.75);
    padding: 20px
 }
+
+.img_lenguaje {
+    max-height: 200px;
+    max-width: 200px;
+}
+
+.lenguaje_item {
+    border-radius: 18px 18px 18px 18px;
+    -moz-border-radius: 18px 18px 18px 18px;
+    -webkit-border-radius: 18px 18px 18px 18px;
+    border: 2px solid white;
+    padding: 12px
+}
+
+.lenguaje_row {
+    margin-bottom: 40px;
+
+}
